@@ -1,5 +1,6 @@
 # README
 
+```
 rails new cableapp
 cd cableapp
 bundle
@@ -16,3 +17,4 @@ rails g channel room speak
 (change cable.js to cable.coffee)
 rails g job MessageBroadcast
 (define methods in message broadcast job)
+```
